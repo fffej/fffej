@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**fffej/fffej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeff and I'm currently Head of Engineering at [Redgate](https://www.red-gate.com/).
 
-Here are some ideas to get you started:
+You can find me on [LinkedIn](https://www.linkedin.com/in/fffej/), [an unmaintained website](https://www.fatvat.co.uk/) or [writing articles on Medium](https://jeff-foster.medium.com/). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me.
+
+### What am I interested in?
+
+* 💡  - Anything that makes software easier; it's too hard!
+  * Type systems?
+  * Better static analysis?
+  * Better human interaction?
+* 🔫  - Solutions to the hardest problems of all.
+  * Recruitment - how do you find awesome engineers?
+  * Process - agile jumped the shark long ago, what's next?
+
+### A random sample of writing/speaking
+
+* 🏟️ [How we built a generative culture at Redgate](https://www.infoq.com/presentations/redgate-westrum-model/) - a talk on culture that emerged from our internal conference
+* ⭐ [Scaling your engineering culture](https://podcasts.google.com/feed/aHR0cHM6Ly9pbmdlbmlvdXNseXNpbXBsZS5saWJzeW4uY29tL3Jzcw/episode/NDI4MjZiYTAtNTNiNy00NWU3LWFlYTAtMDNkMDg4NGFmNDY4?sa=X&ved=0CAUQkfYCahcKEwjoveyd5vbwAhUAAAAAHQAAAAAQAQ) - It's mainly Will Larson being awesome, but I'm there somewhere!
+* 🚶 [Automatic Gait Recognition using area-based metrics](https://eprints.soton.ac.uk/258454/1/foster_prl.pdf) - Machine learning before it was cool!
+* 📜 [A delta-driven execution model for semantic computing](https://dl.acm.org/doi/abs/10.1145/1094855.1094871) - A fun startup I was involved with nearly 20 years ago!
+* 👆 [Transforming Tech at Redgate](https://medium.com/ingeniouslysimple/the-evolution-of-tech-at-redgate-3ebbe6f30ced) - Redgate's using some pretty cool stuff these days
+
