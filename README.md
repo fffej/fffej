@@ -12,9 +12,7 @@ Feel free to reach out to me.
   * Type systems?
   * Better static analysis?
   * Better human interaction?
-* 🔫  - Solutions to the hardest problems of all.
-  * Recruitment - how do you find awesome engineers?
-  * Process - agile jumped the shark long ago, what's next?
+  * Maybe it's agents?
 
 ### A random sample of writing/speaking
 
