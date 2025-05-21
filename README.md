@@ -2,11 +2,11 @@
 
 I'm Jeff, and I'm currently Director of Technology and Innovation at [Redgate](https://www.red-gate.com/).
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/fffej/), [an unmaintained website](https://www.fatvat.co.uk/) or not [writing articles on Medium](https://jeff-foster.medium.com/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/fffej/) or writing at [fffej.substack.com](https://fffej.substack.com).
 
-More recently I've started writing again at [fffej.substack.com](https://fffej.substack.com).
+I've got [an unmaintained website](https://www.fatvat.co.uk/) and some old stuff on [writing articles on Medium](https://jeff-foster.medium.com/).
 
-Feel free to reach out to me.
+Feel free to reach out to me re: anything.
 
 ### What am I interested in?
 
